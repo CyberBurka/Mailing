@@ -1,0 +1,16 @@
+[2024-12-10 18:11:23] [JavaFX Application Thread] INFO  com.example.mailing.FileReaderServiceImpl - Шаблон успешно считан из файла C:\Users\lita0\IdeaProjects\Mailing\template.txt
+[2024-12-10 18:11:37] [JavaFX Application Thread] INFO  com.example.mailing.FileReaderServiceImpl - Успешно считано 1 получателей из файла C:\Users\lita0\IdeaProjects\Mailing\emails.txt
+[2024-12-10 18:11:41] [JavaFX Application Thread] INFO  com.example.mailing.FileReaderServiceImpl - Шаблон успешно считан из файла C:\Users\lita0\IdeaProjects\Mailing\template.txt
+[2024-12-10 18:11:41] [JavaFX Application Thread] INFO  com.example.mailing.FileReaderServiceImpl - Успешно считано 1 получателей из файла C:\Users\lita0\IdeaProjects\Mailing\emails.txt
+[2024-12-10 18:11:41] [JavaFX Application Thread] INFO  com.example.mailing.EmailServiceImpl - Начинается отправка письма на адрес: baranina2000@gmail.com
+[2024-12-10 18:11:44] [JavaFX Application Thread] INFO  com.example.mailing.EmailServiceImpl - Письмо успешно отправлено на адрес: baranina2000@gmail.com
+[2024-12-10 18:18:44] [main] INFO  com.example.mailing.FileReaderServiceImpl - Успешно считано 2 получателей из файла C:\Users\lita0\IdeaProjects\Mailing\test_recipients.csv
+[2024-12-10 18:18:44] [main] INFO  com.example.mailing.FileReaderServiceImpl - Шаблон успешно считан из файла C:\Users\lita0\IdeaProjects\Mailing\test_template.txt
+[2024-12-10 18:20:45] [main] INFO  com.example.mailing.FileReaderServiceImpl - Успешно считано 2 получателей из файла C:\Users\lita0\IdeaProjects\Mailing\test_recipients.csv
+[2024-12-10 18:20:45] [main] INFO  com.example.mailing.FileReaderServiceImpl - Шаблон успешно считан из файла C:\Users\lita0\IdeaProjects\Mailing\test_template.txt
+[2024-12-10 18:21:16] [main] INFO  com.example.mailing.FileReaderServiceImpl - Успешно считано 2 получателей из файла C:\Users\lita0\IdeaProjects\Mailing\test_recipients.csv
+[2024-12-10 18:21:16] [main] INFO  com.example.mailing.FileReaderServiceImpl - Шаблон успешно считан из файла C:\Users\lita0\IdeaProjects\Mailing\test_template.txt
+[2024-12-10 18:23:00] [main] INFO  com.example.mailing.FileReaderServiceImpl - Успешно считано 2 получателей из файла C:\Users\lita0\IdeaProjects\Mailing\test_recipients.csv
+[2024-12-10 18:23:00] [main] INFO  com.example.mailing.FileReaderServiceImpl - Шаблон успешно считан из файла C:\Users\lita0\IdeaProjects\Mailing\test_template.txt
+[2024-12-10 18:23:23] [JavaFX Application Thread] INFO  com.example.mailing.FileReaderServiceImpl - Шаблон успешно считан из файла C:\Users\lita0\IdeaProjects\Mailing\template.txt
+[2024-12-10 18:23:44] [JavaFX Application Thread] INFO  com.example.mailing.FileReaderServiceImpl - Успешно считано 1 получателей из файла C:\Users\lita0\IdeaProjects\Mailing\emails.txt
